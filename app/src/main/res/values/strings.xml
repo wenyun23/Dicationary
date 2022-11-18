@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">云签1.0</string>
+
+    <string name="floatbut">TODO</string>
+    <string name="txt_number">5</string>
+    <string name="txt_bianqian">点击推送每日一语</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="may">5/4</string>
+    <string name="textview">TextView</string>
+    <string name="todo3">TODO</string>
+    <string name="change">切换</string>
+    <string name="order">换图</string>
+    <string name="clear">清空</string>
+    <string name="search">Search</string>
+    <string name="literary">累计输入：0 字</string>
+    <string name="tishi">亲，把你需要记录的东西写下来把</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_file">日历</string>
+    <string name="menu_myself">我</string>
+    <string name="txt_name">叶芯</string>
+    <string name="txt_quote">不止Java</string>
+    <string name="todo4">TODO</string>
+    <string name="yun_logo">云签</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
